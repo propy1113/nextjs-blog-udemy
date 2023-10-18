@@ -44,7 +44,7 @@ export default function Home({ allPostsData }) {
         </Head>
         <section>
           <p className={utilStyle.headingMd}>
-            こちらはプロフィールです。
+            こちらはブランチで開発中です。
           </p>
         </section>
         <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
